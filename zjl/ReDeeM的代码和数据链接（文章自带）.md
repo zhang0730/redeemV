@@ -1,0 +1,7 @@
+## Data availability
+
+All data generated in the manuscript have been deposited in GEO ([GSE219015](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE219015)). Processed Seurat objects are available on figshare: [https://doi.org/10.6084/m9.figshare.23290004](https://hub.uu2025.xyz/10.6084/m9.figshare.23290004). Processed mutation-calling files are available on figshare: [https://doi.org/10.6084/m9.figshare.24418966.v1](https://hub.uu2025.xyz/10.6084/m9.figshare.24418966.v1). Single-colony, whole-genome sequencing data are derived from dbGaP ([phs002308.v1.p1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002308.v1.p1)). Transcription factor motif database JASPAR2020 (https://jaspar2020.genereg.net/) was used with ChromVar analysis. The HOCOMOCOv.11 (https://hocomoco11.autosome.org/downloads_v11) human transcription factor database was used for ‘find individual motif occurrences’ analysis.
+
+## Code availability
+
+ReDeeM datasets can be processed by the consensus variant-calling command tool REDEEM-V (https://github.com/sankaranlab/redeemV) and by the inhouse R package REDEEM-R (https://github.com/sankaranlab/redeemR) for downstream phylogenetic and integrative analysis. The reproducibility codes of the analyses included in this work are also provided (https://github.com/sankaranlab/redeem_reproducibility).
